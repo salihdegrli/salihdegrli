@@ -24,8 +24,8 @@
 </p>
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=degerlisalih&show_icons=true&locale=en&layout=compact" alt="vedatonal38" /></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salihdegrli&show_icons=true&locale=en&layout=compact" alt="salihdegrli" /></p>
   
 <p align="left">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=degerlisalih&show_icons=true&locale=en" alt="vedatonal38" /></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=salihdegrli&show_icons=true&locale=en" alt="salihdegrli" /></p>
 
