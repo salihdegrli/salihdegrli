@@ -9,7 +9,7 @@
 
 <h2 align="center">Connect with me</h2>
 <p align="center">
- <a href="mailto:salih_degerli@outlook.com" target="blank"><img align="center" src="https://www.iconfinder.com/icons/6296671/download/png/4096" alt="salihdegerli/" height="30" width="40" /></a>
+ <a href="mailto:salihdegerli@yahoo.com" target="blank"><img align="center" src="https://www.iconfinder.com/icons/334672/download/png/4096" alt="salihdegerli/" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/salihdegerli/" target="blank"><img align="center" src="https://www.iconfinder.com/icons/5296501/download/png/4096" alt="salihdegerli/" height="30" width="40" /></a>
 <a href="https://salihdegerli.medium.com" target="blank"><img align="center" src="https://www.iconfinder.com/icons/8010436/download/png/4096" alt="salihdegerli" height="40" width="50" /></a>
 <a href="https://www.kaggle.com/salihdegerli" target="blank"><img align="center" src="https://www.iconfinder.com/icons/4373210/download/png/4096" alt="salihdegerli" height="25" width="40" /></a>
