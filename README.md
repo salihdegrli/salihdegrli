@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Salih Değerli</h1>
 <h3 align="center">beng student, data scientist candidate</h3>
 
-- 🔭 I’m currently working on **Data Science**
+- 🔭 I’m currently working on **Data Science**, **NLP**
 
 - 🌱 I’m currently learning **machine learning**
 
