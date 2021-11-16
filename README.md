@@ -1,10 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=%E2%9C%A8+Hello+there!%F0%9F%91%8B%E2%9C%A8;%E2%9C%A8+I+am+salih+değerli!+%F0%9F%91%8B%E2%9C%A8;%E2%9C%A8+Nice+to+meet+you!+%E2%9C%A8;%E2%9C%A8+Welcome+to+my+Github+Profile!+%E2%9C%A8)](https://git.io/typing-svg)
-<!--
-**salihdegerli/salihdegerli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-<h1 align="center">Hi 👋, I am Salih Değerli</h1>
-<h3 align="center">beng student, data scientist candidate</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=false&vCenter=false&lines=%E2%9C%A8+Hello+there!%F0%9F%91%8B%E2%9C%A8;%E2%9C%A8+I+am+salih+DEĞERLİ!+%F0%9F%91%8B%E2%9C%A8;%E2%9C%A8+Nice+to+meet+you!+%E2%9C%A8;%E2%9C%A8+Welcome+to+my+Github+Profile!+%E2%9C%A8)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on **Data Science**, **NLP**
 
