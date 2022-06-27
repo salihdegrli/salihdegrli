@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **machine learning**
 
-- 💬 Ask me about **Python, Java**
+- 💬 Ask me about **Python, keras, tensorflow**
 
 <h2 align="center">Connect with me</h2>
 <p align="center">
